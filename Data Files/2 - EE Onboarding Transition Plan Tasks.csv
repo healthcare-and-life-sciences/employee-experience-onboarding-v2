@@ -1,0 +1,25 @@
+NAME,OWNERID,Description,Display Description,Display Name,Flow API Name,Start Day Offset DEPRECATED
+Enroll in Benefits,,Enroll in Benefits,Enroll in Benefits,Enroll in Benefits,Onboarding_Task_Enroll_in_Benefits,1
+Enroll in New Hire Orientation,,Enroll in New Hire Orientation,Enroll in New Hire Orientation,Enroll in New Hire Orientation,Onboarding_Task_Enroll_in_New_Hire_Orientation,1
+Manager Check-In - Week 1,,Meet with your Manager for week 1 checkin,Meet with your Manager for week 1 checkin,Manager Check-In - Week 1,Onboarding_Task_Manager_Check_in_Week1,1
+We'd Like Your Feedback - Week 1,,We'd Like Your Feedback - Week 1,We'd Like Your Feedback - Week 1,We'd Like Your Feedback - Week 1,Onboarding_Task_Week_1_Feedback,1
+Enroll in Development Training,,Enroll in Development Training,Enroll in Development Training,Enroll in Development Training,Onboarding_Task_Enroll_in_Development_Training,30
+Meet with your Coach / Mentor - Month 1,,Meet with your Coach / Mentor - Month 1,Meet with your Coach / Mentor - Month 1,Meet with your Coach / Mentor - Month 1,Onboarding_Task_Meet_with_your_Coach_Mentor,30
+Set Career Goals,,Set Career Goals,Set Career Goals,Set Career Goals,Onboarding_Task_Set_Career_Goals,30
+Refine Your Development Plan,,Refine Your Development Plan,Refine Your Development Plan,Refine Your Development Plan,Onboarding_Task_Refine_Your_Development_Plan,60
+Meet with your Coach / Mentor - Month 2,,Meet with your Coach / Mentor - Month 2,Meet with your Coach / Mentor - Month 2,Meet with your Coach / Mentor - Month 2,Onboarding_Task_Meet_with_your_Coach_Mentor,60
+Tell Us About Your Onboarding Experience - Month 3,,Provide feedback on your onboarding experience,Provide feedback on your onboarding experience,Tell Us About Your Onboarding Experience - Month 3,Onboarding_Task_90_Day_Feedback,90
+Meet with your Coach / Mentor - Month 3,,Meet with your Coach / Mentor - Month 3,Meet with your Coach / Mentor - Month 3,Meet with your Coach / Mentor - Month 3,Onboarding_Task_Meet_with_your_Coach_Mentor,90
+Complete Self-Evaluation on Goals and Performance,,Complete Self-Evaluation on Goals and Performance,Complete Self-Evaluation on Goals and Performance,Complete Self-Evaluation on Goals and Performance,Onboarding_Task_Complete_Self_Evaluation_on_Goals_and_Performance,90
+Set New Goals & Objectives / Add to Development Plan,,Set New Goals & Objectives / Add to Development Plan,Set New Goals & Objectives / Add to Development Plan,Set New Goals & Objectives / Add to Development Plan,Onboarding_Task_Set_New_Goals_Objectives_Add_to_Development_Plan,90
+Create Your Individual Development Plan,,Create Your Individual Development Plan,Create Your Development Plan,Create Your Development Plan,Onboarding_Task_Create_Your_Individual_Development_Plan,30
+Review Policies & Sign Documents,,Review Policies & Sign Documents,Review Policies & Sign Documents,Review Policies & Sign Documents,Onboarding_Task_Review_Documents,1
+Verify / Update My Personal Information,,Verify / Update My Personal Information,Verify / Update My Personal Information,Verify / Update My Personal Information,Onboarding_Task_Verify_Employee_Profile,1
+Watch Welcome Video,,Watch Welcome Video,Watch Welcome Video,Watch Welcome Video,Onboarding_Task_Welcome_Video,1
+Review Goals and Performance With Manager,,Review Goals and Performance With Manager,Review Goals and Performance With Manager,Review Goals and Performance With Manager,Onboarding_Task_Review_Goals_and_Performance_With_Manager,90
+Revisit Career Goals,,Revisit Career Goals,Revisit Career Goals,Revisit Career Goals,Onboarding_Task_Revisit_Career_Goals,60
+Review Employee Performance Objectives,,Review Employee Performance Objectives,Review Employee Performance Objectives,Review Employee Performance Objectives,Onboarding_Task_Review_Employee_Performance_Objectives,30
+Schedule Employee / Manager Next Check-In,,Schedule Employee / Manager Next Check-In,Schedule Employee / Manager Next Check-In,Schedule Employee / Manager Next Check-In,Onboarding_Task_Schedule_Employee_Manager_Next_Check_In,30
+Complete Employee Welcome Check-In,,Complete Employee Welcome Check-In,Complete Employee Welcome Check-In,Complete Employee Welcome Check-In,Onboarding_Task_Complete_Employee_Welcome_Check_In,30
+Establish Employe Training & Development Plan,,Establish Employe Training & Development Plan,Establish Employe Training & Development Plan,Establish Employe Training & Development Plan,Onboarding_Task_Establish_Employe_Training_Development_Plan,30
+Review Development Objectives with Manager,,Review  Development Objectives with Manager,Review Development Objectives with Manager,Review  Development Objectives with Manager,Onboarding_Task_Review_Development_Objectives_with_Manager,60
