@@ -100,16 +100,16 @@ Work with your Salesforce accont team to ensure you have a work.com org that mee
 The steps require an org with the below Assumptions
 
 1. Create **Transition Plan Template** record- In the HR Service Center app create a Transition Plan Template record and complete the following fields:
-    a. Template Name - New Employee Onboarding
-    b. Transition Type - Onboarding
-    c. Description - New employee onboarding template (or your preferred description) 
-    d. Is Active - checked 
-    e. Welcome Text - complete this field if you would like
+    1. Template Name - New Employee Onboarding
+    2. Transition Type - Onboarding
+    3. Description - New employee onboarding template (or your preferred description) 
+    4. Is Active - checked 
+    5. Welcome Text - complete this field if you would like
       ![](/images/transitionplantemplateimage.png)
 2. Import **Transition Plan Tasks** - import [2 - EE Onboarding Transition Plan Tasks.csv](https://github.com/healthcare-and-life-sciences/employee-experience-onboarding/blob/main/Data%20Files/2%20-%20EE%20Onboarding%20Transition%20Plan%20Tasks.csv) using the Data Import Wizard
 3. Import **Transition Plan Template Tasks** - import [3 - EE Onboarding Transition Plan Template Tasks.csv](https://github.com/healthcare-and-life-sciences/employee-experience-onboarding/blob/main/Data%20Files/3%20-%20EE%20Onboarding%20Transition%20Plan%20Template%20Tasks.csv) using the Data Import Wizard. Make the following lookup field matching selections (see below screenshot)
-    a. Select **Transition Plan Task Name **field to match against to set the Transition Plan Task lookup field.
-    b. Select **Transition Plan Template Name **field to match against to set the Transition Plan Template lookup field.
+    1. Select **Transition Plan Task Name **field to match against to set the Transition Plan Task lookup field.
+    2. Select **Transition Plan Template Name **field to match against to set the Transition Plan Template lookup field.
     ![](/images/transitionplantemplatetasks.png)
 
 ## Assumptions
