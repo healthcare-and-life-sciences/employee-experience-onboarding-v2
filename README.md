@@ -87,7 +87,7 @@ Work with your Salesforce accont team to ensure you have a work.com org that mee
 
 ### Installation Steps:
 
-1. Install the [Employee Expereince Onboarding](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tDp0000006OoV) unmangaged package.
+1. Install the unmangaged package.
 
 ### Post-Install Configuration Steps:
 
